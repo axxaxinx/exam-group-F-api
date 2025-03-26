@@ -17,6 +17,7 @@
   "homepage": "https://github.com/axxaxinx/exam-group-F-api#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "typeorm": "^0.3.21"
   }
 }
