@@ -1,0 +1,22 @@
+{
+  "name": "exam-group-f-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axxaxinx/exam-group-F-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axxaxinx/exam-group-F-api/issues"
+  },
+  "homepage": "https://github.com/axxaxinx/exam-group-F-api#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
